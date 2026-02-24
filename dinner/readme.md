@@ -36,11 +36,11 @@ Aperol Spritz
 | Prep Time | 5 minutes |
 
 ### Ingredients:
-- [Aperol
+- Aperol
 - Prosecco
 - Ice
 - Club Soda / soda water
-- Orange Slide] add ingredient here
+- Orange Slide
       
 <!-- List every ingredient -->
 
