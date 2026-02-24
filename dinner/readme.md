@@ -29,6 +29,29 @@
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+### Beverage Pairing 
+
+Aperol Spritz 
+
+| Prep Time | 5 minutes |
+
+### Ingredients:
+- [ Aperol
+- Prosecco
+- Ice
+- Club Soda / soda water
+- Orange Slide] add ingredient here
+      
+<!-- List every ingredient -->
+
+### Steps for preparation:
+
+1. Fill a large wine glass with ice.
+2. Pour in 3 parts Prosecco (e.g., 3 oz)
+3. Add 2 parts Aperol (e.g., 2 oz).
+4. Add a splash of soda water (e.g., 1 oz).
+5. Garnish with an orange slice 
+
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
