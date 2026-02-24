@@ -45,7 +45,7 @@ A beloved American-Chinese staple featuring crispy fried chicken tossed in a swe
 2. Dredge the chicken: In a separate large bowl or gallon-sized bag, mix the 1/2 cup cornstarch and 1/4 cup flour. Add the marinated chicken and shake until every piece is thoroughly and evenly coated.
 3. Fry the chicken: Heat about 2-3 inches of oil in a heavy pot or wok to 375°F. Fry the chicken in small batches for 3-4 minutes until golden brown and crispy. Remove to a wire rack or paper towel-lined plate.
 4. Aromatics: In a clean wok or large skillet over medium-high heat, add 1 tablespoon of oil. Sauté the ginger, garlic, and red pepper flakes for about 30 seconds until fragrant.
-5. 5. Simmer the sauce: Add the rice wine, water, sesame oil, soy sauce, sugar, vinegar, and orange zest. Bring the mixture to a gentle boil.
+5. Simmer the sauce: Add the rice wine, water, sesame oil, soy sauce, sugar, vinegar, and orange zest. Bring the mixture to a gentle boil.
 6. Thicken: Stir in the cornstarch slurry while whisking constantly. Continue to cook until the sauce reaches a thick, syrupy consistency.
 7. Toss and serve: Add the fried chicken pieces back into the wok. Toss rapidly to ensure every piece is glazed in the orange sauce. Serve immediately over white or brown rice.
 
