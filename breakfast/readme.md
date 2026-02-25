@@ -43,4 +43,4 @@ Recipe tip #2. To make sweet crêpes, whisk 2 tablespoons white sugar and 1 teas
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s): Alexa Buckley
+### Author(s): Alexa Buckley, Graciela De Leon
