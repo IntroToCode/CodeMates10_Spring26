@@ -12,19 +12,19 @@ Crepes are a wonderful breakfast dish and this recipe serves as the base for you
 | Prep Time | 10 minutes |
 | Cook Time | 20 minutes |
 | Total Time | 30 minutes |
-| Servings | 4 |
+| Servings | 8 |
 | Difficulty | Easy |
 | Tags | Quick |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ 2 large eggs
-- 1/2 cup milk or more, as needed
-- 1/2 cup water
-- 1/4 teaspon salt or to taste
-- 1 cup all purpose flour
-- 2 tablespoons butter melted] add ingredient here
+- [ 4 large eggs
+- 1 cup milk or more, as needed
+- 1 cup water
+- 1/2 teaspon salt or to taste
+- 2 cup all purpose flour
+- 4 tablespoons butter melted] add ingredient here
       
 <!-- List every ingredient -->
 
