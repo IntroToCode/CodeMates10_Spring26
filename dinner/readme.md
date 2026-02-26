@@ -48,10 +48,6 @@ A perfect balance of sweet and heat, this dish features tender shredded chicken 
 5. **Shred:** Shred chicken, reserve 1 cup of sauce, and toss chicken back into the slow cooker.
 6. **Assemble:** Layer greens, rice, potatoes, slaw, and chicken. Drizzle with extra sauce.
 
-### Suggested Wine Pairing:
-
-| Red Wine / White Wine / Rose / Sparkling Wine |
-
 ### Notes:
 * Sub coconut sugar for brown sugar if needed.
 
