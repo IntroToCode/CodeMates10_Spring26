@@ -13,6 +13,7 @@
 | Total Time | e.g. 45 minutes |
 | Servings | e.g. 4 |
 | Difficulty | Easy / Medium / Hard |
+| Spice Level | 🌶️ / 🌶️🌶️ / 🌶️🌶️🌶️ |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
@@ -28,6 +29,10 @@
 2. Step two.
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
+
+### Suggested Wine Pairing:
+
+| Red Wine / White Wine / Rose / Sparkling Wine |
 
 ### Notes:
 
