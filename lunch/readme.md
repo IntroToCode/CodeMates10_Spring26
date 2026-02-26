@@ -52,7 +52,7 @@ A beloved American-Chinese staple featuring crispy fried chicken tossed in a swe
 ### Notes:
 
 - Don't skip the fresh orange zest since it provides essential citrus oils that bottled juice lacks.
-- Increase the red pepper flakes to 1 tsp if you prefer moer spice.
+- Increase the red pepper flakes to 1 tsp if you prefer more spice.
 
 ### Author(s):
 Daniella Bernstein
