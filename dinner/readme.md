@@ -13,6 +13,7 @@ A perfect balance of sweet and heat, this dish features tender shredded chicken 
 | Difficulty | Medium |
 | Spice Level | 🌶️🌶️🌶️ |
 | Tags | slow-cooker, high-protein, gluten-free, meal-prep |
+| Recommended Beverage Pairing | Old Fashioned |
 
 
 ### Ingredients:
