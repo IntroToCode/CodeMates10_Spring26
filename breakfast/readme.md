@@ -14,7 +14,10 @@ Crepes are a wonderful breakfast dish and this recipe serves as the base for you
 | Total Time | 30 minutes |
 | Servings | 8 |
 | Difficulty | Easy |
+| Spice Level | 🌶️ / 🌶️🌶️ / 🌶️🌶️🌶️ |
 | Tags | Quick |
+
+
 
 <!-- Note the fields in the markdown table -->
 
