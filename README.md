@@ -5,7 +5,7 @@
 - Dinner: [Dinner Recipe](dinner/readme.md)
 
 # Spice Level
-| Spice Level | 🌶️ / 🌶️🌶️ / 🌶️🌶️🌶️ |
+| Spice Level | 🌶️🌶️  |
 
 _Notes_
 - @gracielaaaaa edited index above 
