@@ -1,5 +1,6 @@
 # Replace with recipe name
 
+
 ## Description
 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
@@ -13,6 +14,7 @@
 | Total Time | e.g. 45 minutes |
 | Servings | e.g. 4 |
 | Difficulty | Easy / Medium / Hard |
+| Spice Level | 🌶️ / 🌶️🌶️ / 🌶️🌶️🌶️ |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
