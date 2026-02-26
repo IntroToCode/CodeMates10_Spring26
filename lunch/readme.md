@@ -3,6 +3,8 @@
 ## Description
 
 A beloved American-Chinese staple featuring crispy fried chicken tossed in a sweet, tangy, and slightly spicy chili-orange glaze. This dish was originally created for Panda Express in 1987 and has since become an icon of fast-casual dining.
+# Replace with recipe name
+
 
 ## Stats
 
@@ -13,6 +15,7 @@ A beloved American-Chinese staple featuring crispy fried chicken tossed in a swe
 | Total Time | 35 minutes |
 | Servings | e.g. 4 |
 | Difficulty | Medium |
+| Spice Level | 🌶️ |
 | Tags | poultry, dinner, stir-fry, fast-food |
 
 
@@ -57,3 +60,4 @@ A beloved American-Chinese staple featuring crispy fried chicken tossed in a swe
 ### Author(s):
 Daniella Bernstein
 Graciela De Leon
+Alexa Buckley
